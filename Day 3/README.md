@@ -9,7 +9,7 @@
 ## Задачи (deadline 17.10.2018, 24.00)
 - Внести правки по выполненным ранее задачам с учетом замечаний.
 - Реализовать алгоритм FindNthRoot, позволяющий вычислять корень **n**-ой степени ( n ∈ N ) из вещественного числа **а** методом Ньютона с заданной точностью. 
-  - Разработать модульные тесты (NUnit и MS Unit Test (включая подход [DDT](https://docs.microsoft.com/ru-ru/visualstudio/test/how-to-create-a-data-driven-unit-test?view=vs-2015))) для тестирования метода. Примерные тест кейсы:
+  - Разработать модульные тесты (NUnit и MS Unit Test (используя подход [DDT](https://docs.microsoft.com/ru-ru/visualstudio/test/how-to-create-a-data-driven-unit-test?view=vs-2015))) для тестирования метода. Примерные тест кейсы:
     - [TestCase(1, 5, 0.0001,ExpectedResult =1)]
     - [TestCase(8, 3, 0.0001,ExpectedResult = 2)]
     - [TestCase(0.001, 3, 0.0001,ExpectedResult = 0.1)]
