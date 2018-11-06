@@ -6,7 +6,6 @@
 
 - [Delegates. Lambdas and Events](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M9.%20Delegates.%20Lambdas%20and%20Events)
 - [LINQPad Delegates. Lambdas and Events](https://drive.google.com/drive/u/0/folders/1mK_VDF-V8U7B2sGUQxro0qKLFaEbWl3o)
-- [LINQPad Generics and Collections]()
 
 ## Задачи (deadline - 07.11.2018, 18.00)
 
