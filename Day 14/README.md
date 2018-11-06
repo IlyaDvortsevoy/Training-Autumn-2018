@@ -12,4 +12,4 @@
 
 1. (deadline - 09.11.2018) Реализовать метод-генератор последовательности чисел Фибоначчи. Разработать unit-тесты.
 2. (deadline - 10.11.2018) Реализовать обобщенный алгоритм бинарного поиска. Разработать unit-тесты.
-3. (deadline - 11.11.2018) [Task](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
+3. (deadline - 12.11.2018) [Task](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
