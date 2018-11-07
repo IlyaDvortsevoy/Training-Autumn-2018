@@ -6,7 +6,7 @@
 - [LINQPad Generics and Collections](https://drive.google.com/drive/u/0/folders/1xh-FgyvVs2FIaX4G3gsxidq3_7PrkhwF)
 
 ##  Для самостоятельного изучения (презентация, видео и примеры)
-(deadline - 11.11.2018) 
+**(deadline - 11.11.2018)**
 - [Exception Handling. Logging. NLog](https://drive.google.com/drive/folders/1zjm5L3elzhBkYjyoFzsgEReD589FzRVj)
 
 ## Задачи
