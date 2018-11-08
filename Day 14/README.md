@@ -3,6 +3,7 @@
 
 ## Материалы (презентация)
 - [Generics and Collections](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections)
+ [Generics and Collections](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/tree/master/Day%2014)
 - [LINQPad samples. Video](https://drive.google.com/drive/folders/17UnpjJCqX5I6W98IkRC9414XKKptb-1_)
 
 ##  Для самостоятельного изучения (презентация, видео и примеры)
