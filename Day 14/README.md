@@ -1,15 +1,21 @@
 ## Читать
-- [Exception Handling. Logging. NLog](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M8.%20Exception%20Handling.%20Logging.%20NLog)
+- C# in Depth. Jon Skeet. Manning Publications Co. 2013. Chapter 6. Implementing iterators the easy way.
 
 ## Материалы (презентация)
-- [Exception Handling. Logging. NLog](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M8.%20Exception%20Handling.%20Logging.%20NLog)
-- [Google Диск](https://drive.google.com/drive/u/0/folders/1iHipvuu5dJefEMz9OxGWvxcxaMLvPuz-)
+- [Generics and Collections](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M10.%20Generics%20and%20Collections) 
+- [Generics and Collections](https://drive.google.com/drive/folders/1iHipvuu5dJefEMz9OxGWvxcxaMLvPuz-)
+- [LINQPad samples. Video](https://drive.google.com/drive/folders/17UnpjJCqX5I6W98IkRC9414XKKptb-1_)
 
-##  Для самостоятельного изучения
-(deadline - 11.11.2018) [Streams and IO!](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
+##  Для самостоятельного изучения (презентация, видео и примеры)
+**(deadline - 11.11.2018)**
+- [Exception Handling. Logging. NLog](https://drive.google.com/drive/folders/1zjm5L3elzhBkYjyoFzsgEReD589FzRVj)
 
-## Задачи (deadline 22.07.2018, 18.00)
+## Задачи
 
-1. (deadline - 09.11.2018) Реализовать метод-генератор последовательности чисел Фибоначчи. Разработать unit-тесты.
-2. (deadline - 10.11.2018) Реализовать обобщенный алгоритм бинарного поиска. Разработать unit-тесты.
-3. (deadline - 12.11.2018) [Task](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
+1. (deadline - 09.11.2018, 24.00) Реализовать метод-генератор последовательности чисел Фибоначчи. Разработать unit-тесты.
+2. (deadline - 10.11.2018, 24.00) Реализовать обобщенный алгоритм бинарного поиска (добавить в проект с методами сортировки). Методы сортировки преобразовать в обобщенные. Разработать unit-тесты.
+3. (deadline - 11.11.2018, 24.00) Добавить в статический класс с обобщенными методами-трансформерами обобщенные методы-фильтры (реализовать как методы расширения) получения из набора данных типа TSource набора данных типа TSource, логику попадания в результирующий набор инкупсулировать в функции-предикате (рассмотреть два подхода - объектно-ориентированый и функциональный).
+В качестве тест-кейсов для метода-фильтра можно использовать, напимер, 
+     - для строк - соответствие определенном шаблону, соответствие определенной длине и т.д.
+     - для целых чисел - наличие определенной цифры в числе, простота, четность и т.д.
+4. (deadline - ) Добавить в класс-сервис для управления банковским счетом возможность логирования информации об исключениях, возникающих при выполнении основых операций с банковским счетом. Продумать возможность (при необходимости) замены одного фреймворка для логирования на другой, а также нсмрользования кастомных классов исключений.
