@@ -10,4 +10,4 @@
 - [Google Disk. Advanced topic](https://drive.google.com/drive/folders/1ZsbnBMLUx8lg1eUPAnNhRZZpR-F-RrDa)
 
 ## Задача
-- (deadline - 18.11.2018б 24.00) [здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
+- (deadline - 18.11.2018, 24.00) [здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M13.%20Streams%20and%20IO)
