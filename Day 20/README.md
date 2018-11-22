@@ -1,13 +1,5 @@
-<p><b>Задание 1</b></p>
-<p>
-В текстовом файле построчно хранится информация о URL-адресах, представленных в виде <scheme>://<host>/<URL‐path>?<parameters>, где сегмент parameters - это набор пар вида key=value, при этом сегменты URL‐path и parameters  или сегмент parameters могут отсутствовать. 
-Разработать систему типов (руководствоваться принципами SOLID) для экспорта данных, полученных на основе разбора информации текстового файла, в XML-документ по следующему правилу, например, для текстового файла с URL-адресами
+## Читать
+- [Object Oriented Design Principles](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M16.%20Object%20Oriented%20Design%20Principles)
 
- - https://github.com/AnzhelikaKravchuk?tab=repositories 
- - https://github.com/AnzhelikaKravchuk/2017-2018.MMF.BSU
- - https://habrahabr.ru/company/it-grad/blog/341486/ 
-
-результирующим является XML-документ вида (можно использовать любую XML технологию без ограничений).
-Для тех URL-адресов, которые не совпадают с данным паттерном, “залогировать” информацию, отметив указанные строки, как необработанные. 
-Продемонстрировать работу на примере консольного приложения.
-</p>
+## Материалы (презентация)
+- [Принципы проектирования. Материала и примеры LINQPad](https://drive.google.com/drive/u/0/folders/1GfV5bnT8vZZZBxaccL4wl-ixXOH9Zc-i)
