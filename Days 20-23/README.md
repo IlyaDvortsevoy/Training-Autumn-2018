@@ -3,3 +3,5 @@
 
 ## Материалы (презентация)
 - [Принципы проектирования. Материалы и примеры LINQPad](https://drive.google.com/drive/u/0/folders/1GfV5bnT8vZZZBxaccL4wl-ixXOH9Zc-i)
+- [SOLID](https://drive.google.com/drive/u/0/folders/1Cu4GJDy2AOn0lbKXz2c7DgxOTXzT8NDh)
+- [project architecture](https://drive.google.com/drive/u/0/folders/1nuD42hcc84zDm2wea43gPjcdDrD3YwM5)
