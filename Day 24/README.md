@@ -1,6 +1,6 @@
 ## Читать
-- [Информация здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M21.%20ADO.NET%20intro)
-- [Информация здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules/tree/master/M22.%20ADO.NET%20EF)
+- [Информация здесь](http://www.entityframeworktutorial.net/)
+- [Информация здесь](https://github.com/entityframeworktutorial)
 
 
 ## Материалы (презентация)
