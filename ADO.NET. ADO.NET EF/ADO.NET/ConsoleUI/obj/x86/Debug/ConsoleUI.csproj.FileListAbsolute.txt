@@ -1,0 +1,59 @@
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\ADO.NET. ADO.NET EF\ADO.NET\ConsoleUI\obj\x86\Debug\ConsoleUI.csproj.CopyComplete

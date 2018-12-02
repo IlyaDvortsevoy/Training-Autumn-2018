@@ -1,0 +1,56 @@
+D:\Code\Pro ASP.NET 3.5\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+D:\Code\Pro ASP.NET 3.5\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+D:\Code\Pro ASP.NET 3.5\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+D:\Code\Pro ASP.NET 3.5\Chapter08\DatabaseComponent\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Pro ASP.NET 3.5\Chapter08\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+D:\Code\Pro ASP.NET 3.5\Chapter08\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+D:\Code\Pro ASP.NET 4\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+D:\Code\Pro ASP.NET 4\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+D:\Code\Pro ASP.NET 4\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+D:\Code\Pro ASP.NET 4\Chapter08\DatabaseComponent\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Pro ASP.NET 4\Chapter08\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+D:\Code\Pro ASP.NET 4\Chapter08\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+C:\Users\anzhelika\Desktop\ASP.NET\Литература по ASP.NET\Pro ASP.NET 4 - MakDonald\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+C:\Users\anzhelika\Desktop\ASP.NET\Литература по ASP.NET\Pro ASP.NET 4 - MakDonald\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+C:\Users\anzhelika\Desktop\ASP.NET\Литература по ASP.NET\Pro ASP.NET 4 - MakDonald\Chapter08\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+C:\Users\anzhelika\Desktop\ASP.NET\Литература по ASP.NET\Pro ASP.NET 4 - MakDonald\Chapter08\DatabaseComponent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\anzhelika\Desktop\ASP.NET\Литература по ASP.NET\Pro ASP.NET 4 - MakDonald\Chapter08\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+C:\Users\anzhelika\Desktop\ASP.NET\Литература по ASP.NET\Pro ASP.NET 4 - MakDonald\Chapter08\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+C:\Users\kravchuk\Desktop\Day 10\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+C:\Users\kravchuk\Desktop\Day 10\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+C:\Users\kravchuk\Desktop\Day 10\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+C:\Users\kravchuk\Desktop\Day 10\ADO.NET.2\DatabaseComponent\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kravchuk\Desktop\Day 10\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+C:\Users\kravchuk\Desktop\Day 10\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\Training ASP.NET. Winter 2013\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ASP.NET MVC 4 Training Spring 2014\Day 12\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ADO.NET.2\ADO.NET.2\ADO.NET.2\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ASP.NET MVC Training. Spring 2018\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\DatabaseComponent\bin\Debug\DatabaseComponent.dll.config
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\DatabaseComponent\bin\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\DatabaseComponent\bin\Debug\DatabaseComponent.pdb
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.csprojAssemblyReference.cache
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.dll
+C:\Users\MIB\Desktop\ADO.NET&ADO.NET EF\ADO.NET\DatabaseComponent\obj\Debug\DatabaseComponent.pdb
