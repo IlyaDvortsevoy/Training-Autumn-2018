@@ -1,6 +1,7 @@
 ## Читать
 - [Entity Framework Tutorial](http://www.entityframeworktutorial.net/)
 - [Entity Framework 6](https://docs.microsoft.com/en-us/ef/ef6/)
+- [Entity Framework 6](https://docs.microsoft.com/ru-ru/ef/ef6/)
 
 ## Материалы
 - [Code first demo](https://github.com/AnzhelikaKravchuk/EF6-Code-First-Demo)
