@@ -1,5 +1,6 @@
-## Читать
-- [Информация здесь](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC)
+# Web intro
+## Видео
+- [Основы работы web и сетей передачи данных: вводный видеокурс](https://proglib.io/p/networks-youtube-course/)
 
 ## Материалы
-- [Google Disk](https://drive.google.com/drive/u/0/folders/1l3Z3u-F4ssrA66jKYNpXe7L3LoRsFCQT)
+- [Google Disk](https://drive.google.com/drive/u/0/folders/1CFaf05YsFiCa0dANGqS5UnUaDgBAQIuI)
