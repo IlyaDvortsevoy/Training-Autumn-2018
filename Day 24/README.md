@@ -1,9 +1,10 @@
 ## Читать
-- [Информация здесь](http://www.entityframeworktutorial.net/)
-- [Информация здесь](https://github.com/entityframeworktutorial)
+- [Entity Framework Tutorial](http://www.entityframeworktutorial.net/)
+- [Entity Framework 6](https://docs.microsoft.com/en-us/ef/ef6/)
 
-
-## Материалы (презентация)
+## Материалы
+- [Code first demo](https://github.com/AnzhelikaKravchuk/EF6-Code-First-Demo)
+- [Database first demo](https://github.com/AnzhelikaKravchuk/EF6-DBFirst-Demo)
 - [Google Disk](https://drive.google.com/drive/u/0/folders/1AWDZn4clMWZ1TBuWY6-90E2inkJBBJCo)
 - [Google Disk](https://drive.google.com/drive/u/0/folders/1Xhk7RJot31_uNoY4cmnOc6TcbyJm_YE5)
 
