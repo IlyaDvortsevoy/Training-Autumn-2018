@@ -1,5 +1,3 @@
-## Читать
-- [Информация здесь](https://github.com/EPM-RD-NETLAB/ASP.NET.MVC)
+## IIS and ASP.NET Request Pipeline
 
-## Материалы
-- [Google Disk](https://drive.google.com/drive/u/0/folders/1l3Z3u-F4ssrA66jKYNpXe7L3LoRsFCQT)
+[!IIS and ASP.NET Request Pipeline](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/IIS%20and%20ASP.NET%20pipeline.pdf)
