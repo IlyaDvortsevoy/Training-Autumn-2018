@@ -1,4 +1,5 @@
 ## IIS and ASP.NET Request Pipeline
+![](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/Web%20Application%20with%20HTML%20and%20Steps.png)
 
 [IIS and ASP.NET Request Pipeline](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/IIS%20and%20ASP.NET%20pipeline.pdf)
 
