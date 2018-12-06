@@ -6,3 +6,5 @@
 [Lifecycle of an ASP.NET.MVC 5 Aapplication](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/lifecycle-of-an-aspnet-mvc-5-application.pdf)
 
 ![ASP.NET MVC pipline](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/ASP.NET%20MVC%20pipline.png)
+
+[ASP.NET MVC: The Request-Handling Pipeline](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/asp_net_mvc_poster.pdf)
