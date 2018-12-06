@@ -1,5 +1,6 @@
-## IIS and ASP.NET Request Pipeline
 ![](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/Web%20Application%20with%20HTML%20and%20Steps.png)
+
+## IIS and ASP.NET Request Pipeline
 
 [IIS and ASP.NET Request Pipeline](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/IIS%20and%20ASP.NET%20pipeline.pdf)
 
@@ -23,4 +24,4 @@
     - [EmptyResult.cs](https://github.com/aspnet/AspNetWebStack/blob/master/src/System.Web.Mvc/EmptyResult.cs)
     - [WebViewPage.cs](https://github.com/aspnet/AspNetWebStack/blob/master/src/System.Web.Mvc/WebViewPage.cs)
     - [WebViewPageOfTModel.cs](https://github.com/aspnet/AspNetWebStack/blob/master/src/System.Web.Mvc/WebViewPageOfTModel.cs)
-  
+    - ...
