@@ -9,7 +9,11 @@
 
 # IIS and ASP.NET Request Pipeline
 
+[Introduction to IIS Architectures](https://docs.microsoft.com/en-us/iis/get-started/introduction-to-iis/introduction-to-iis-architecture)
+
 [IIS and ASP.NET Request Pipeline](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/IIS%20and%20ASP.NET%20pipeline.pdf)
+
+[Обработка запросов в ASP.NET](https://sonyks2007.blogspot.com/2015/11/aspnet.html])
 
 ##
 
