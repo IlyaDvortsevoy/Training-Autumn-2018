@@ -11,4 +11,4 @@
     
    ### ![](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/blob/master/Pictures/3.png)
   
-  3. Реализовать кастомный управляемый модуль - [IHttpModule](https://docs.microsoft.com/en-us/dotnet/api/system.web.ihttpmodule?view=netframework-4.7.2).
+  3. *(draft)* Реализовать кастомный управляемый модуль - [IHttpModule](https://docs.microsoft.com/en-us/dotnet/api/system.web.ihttpmodule?view=netframework-4.7.2).
