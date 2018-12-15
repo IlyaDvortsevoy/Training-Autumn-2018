@@ -29,4 +29,4 @@
 - Обязательным требованием для любого выполненного задания является его соответствие [Settings.StyleCop](https://github.com/AnzhelikaKravchuk/Training-Autumn-2018/tree/master/Day%201)
 
 
-[Git для начинающих](Git для начинающих)
+- [Git для начинающих](https://monsterlessons.com/project/lessons/git-nachinaem-rabotat-s-gitom)
